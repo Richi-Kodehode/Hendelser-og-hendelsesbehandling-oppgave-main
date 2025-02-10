@@ -1,17 +1,17 @@
 [
   {
     "name": "bruh",
-    "path": "../sounds/bruh.mp3",
+    "path": "sounds/bruh.mp3",
     "key" : "b"
   },
   {
     "name": "buzzer",
-    "path": "../sounds/buzzer.mp3",
+    "path": "sounds/buzzer.mp3",
     "key" : "u"
   },
    {
     "name": "fart",
-    "path": "../sounds/fart.mp3",
+    "path": "sounds/fart.mp3",
     "key" : "f"
   }
 ]
