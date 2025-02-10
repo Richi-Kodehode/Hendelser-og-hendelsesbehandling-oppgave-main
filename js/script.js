@@ -1,4 +1,4 @@
-const jsonPath = "/data/sounds.json";
+const jsonPath = "data/sounds.json";
 async function getJson() {
   const response = await fetch(jsonPath);
   const data = await response.json();
